@@ -9,12 +9,11 @@ Also the app allows you to edit a particular task or delete it.
 ### Tech/Framework used : 
 1. Language : Python
 2. Library : customtkinter, pymongo
-<br>
 
 ### Screenshot : 
 
 The main heighlight of this app is the use of customTkinter library which looks much more modern that the typical box-like Tkinter. It also has themes inbuilt.
 > You can find the documentation here : https://customtkinter.tomschimansky.com/
-
+<br>
 ![to-do app image](https://github.com/sumitmule/todo-app/assets/111048440/5a741a4b-fbb1-4260-a7f2-d7efc0f3431b)
 
