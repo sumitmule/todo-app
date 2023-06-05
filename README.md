@@ -1,6 +1,6 @@
 # To-Do App
 
-A To-Do app built in Python using `**customTkinter**` GUI and MongoDB connectivity.
+A To-Do app built in Python using **`customTkinter`** GUI and MongoDB connectivity.
 
 The main purpose behind this app was to learn CRUD operations in MongoDB using Python. You can enter the task, assign them priorities and due dates. They will added to Due Tasks. You can mark taska as done after which they will be shifted to Done section.✅
 Also the app allows you to edit a particular task or delete it.
